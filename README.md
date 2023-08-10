@@ -1,3 +1,5 @@
+## Bem vindo ao meu perfil, aqui você vai ter um breve vislumbre do meu trabalho
+
 <div>
   <a href="https://github.com/jorge-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorge-pires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
  
  <br>
  
-  ### Para conteúdos sobre programação é só me seguir nas redes abaixo!
+  ### Essas são minhas redes de contato, é só mandar um oi que respondo assim que possível 😁👍
  
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
