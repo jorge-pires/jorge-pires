@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil, aqui você vai ter um breve vislumbre do meu trabalho
+## Bem vindo ao meu perfil, aqui você vai ter um breve vislumbre do meu trabalho  👨‍💻
 
 <div>
   <a href="https://github.com/jorge-pires">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Essas são minhas redes de contato, é só mandar um oi que respondo assim que possível 😁👍
+  ### Essas são minhas redes de contato, é só mandar um oi, vou responder assim que possível  😁👍
  
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
