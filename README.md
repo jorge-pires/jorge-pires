@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil, aqui você vai ter um breve vislumbre do meu trabalho  👨‍💻
+## Bem vindo ao meu perfil, logo abaixo tem um breve vislumbre do meu trabalho  👨‍💻
 
 <div>
   <a href="https://github.com/jorge-pires">
